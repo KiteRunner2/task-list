@@ -1,0 +1,7 @@
+{
+  id: MongoID
+  status: 'done' | 'pending'
+  description: string
+  deleted: boolean;
+  dueDate: datetime;
+}
